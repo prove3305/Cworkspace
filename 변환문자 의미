@@ -1,3 +1,9 @@
+혼공C 98쪽 참고
+
+
+
+
+
 1. %d // 10진수로 출력 정수형 
 int n = 10;printf("%d", n);
 
@@ -27,7 +33,13 @@ char c = 'a';printf("%c", c);
 
 0. %s // 문자열을 출력
 char *name = "홍길동";printf("%s", name); 
+
+
+
             
+
+
+
 
 
 
