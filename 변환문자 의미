@@ -1,0 +1,44 @@
+1. %d // 10진수로 출력 정수형 
+int n = 10;printf("%d", n);
+
+2. %f // 실수형double
+d = 12.345;printf("%f", d);
+
+3. %e // 지수형double 
+d = 12.3456789;printf("%e", d);
+
+4. %o // 8진수로 출력int 
+a = 1023;printf("%o", a);
+
+5. %x // 16진수로 출력int 
+a = 1023;printf("%x", a);
+
+6. %u // 부호없는 10진수로 출력 
+int a = 1023;printf("%u", a);
+
+7. %g // 실수형으로 자동 출력double 
+d = 12.3456789;printf("%g", d);
+
+8. %p // 포인터의 주소를 출력
+int *p;printf("%p", p);
+
+9. %c // 하나의 문자로 출력 문자형 
+char c = 'a';printf("%c", c);
+
+0. %s // 문자열을 출력
+char *name = "홍길동";printf("%s", name); 
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
